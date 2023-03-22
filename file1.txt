@@ -3,3 +3,5 @@ mengenal apa itu github
 mengakses situs github
 membuat akun github
 membuat repo
+melakukan perubahan 
+melihat history
