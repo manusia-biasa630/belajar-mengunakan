@@ -4,5 +4,5 @@ mengikuti contoh
 sudah melakukan percobaan pertama
 percobaan pertama berhasil
 sekarang malakukan percobaan kedua
-dengan benar
 dan menuliskan kalimat sederhana
+menghapus dengan benar
